@@ -5,7 +5,7 @@
     "@craftjs/utils": "^0.1.0-beta.20",
     "@types/lodash": "^4.14.175",
     "dotenv": "^10.0.0",
-    "mongodb": "^4.1.2",
+    "mongodb": "^4.1.4",
     "react": "^17.0.2"
   },
   "devDependencies": {
