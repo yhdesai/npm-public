@@ -20,6 +20,18 @@
   dependencies:
     "@craftjs/utils" "^0.1.0-beta.20"
 
+"@craftjs/utils@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@craftjs/utils/-/utils-0.1.0.tgz#843a6cf500d156950b90f413a57eda4e1413570f"
+  integrity sha512-ah6Bc/LDWNbqIS26tp8yrzBIegra27JtkQc/Ufvr/XVTrDqV1GQZNmDmIqAJ/uPEpj78mM36Lo6Ym70gD4V0DA==
+  dependencies:
+    "@types/react" "^17.0.5"
+    immer "^8.0.1"
+    lodash "^4.17.20"
+    nanoid "^3.1.23"
+    shallowequal "^1.1.0"
+    tiny-invariant "^1.0.6"
+
 "@craftjs/utils@^0.1.0-beta.20":
   version "0.1.0-beta.20"
   resolved "https://registry.npmjs.org/@craftjs/utils/-/utils-0.1.0-beta.20.tgz#2ba535b043e45368dc60bcf06614dab5ba2d0899"
