@@ -32,42 +32,6 @@
     shallowequal "^1.1.0"
     tiny-invariant "^1.0.6"
 
-"@craftjs/utils@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@craftjs/utils/-/utils-0.1.0.tgz#843a6cf500d156950b90f413a57eda4e1413570f"
-  integrity sha512-ah6Bc/LDWNbqIS26tp8yrzBIegra27JtkQc/Ufvr/XVTrDqV1GQZNmDmIqAJ/uPEpj78mM36Lo6Ym70gD4V0DA==
-  dependencies:
-    "@types/react" "^17.0.5"
-    immer "^8.0.1"
-    lodash "^4.17.20"
-    nanoid "^3.1.23"
-    shallowequal "^1.1.0"
-    tiny-invariant "^1.0.6"
-
-"@craftjs/utils@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@craftjs/utils/-/utils-0.1.0.tgz#843a6cf500d156950b90f413a57eda4e1413570f"
-  integrity sha512-ah6Bc/LDWNbqIS26tp8yrzBIegra27JtkQc/Ufvr/XVTrDqV1GQZNmDmIqAJ/uPEpj78mM36Lo6Ym70gD4V0DA==
-  dependencies:
-    "@types/react" "^17.0.5"
-    immer "^8.0.1"
-    lodash "^4.17.20"
-    nanoid "^3.1.23"
-    shallowequal "^1.1.0"
-    tiny-invariant "^1.0.6"
-
-"@craftjs/utils@^0.1.0-beta.20":
-  version "0.1.0-beta.20"
-  resolved "https://registry.npmjs.org/@craftjs/utils/-/utils-0.1.0-beta.20.tgz#2ba535b043e45368dc60bcf06614dab5ba2d0899"
-  integrity sha512-KevLljnpEvHxpB2nxRZyQG2i4GDivIkY58depi+ynQP2ALonNuxEGVO2QsuDJ+p1z4eOtv0Xi/D3o6Qr84eAzQ==
-  dependencies:
-    "@types/react" "^17.0.5"
-    immer "^8.0.1"
-    lodash "^4.17.20"
-    nanoid "^3.1.23"
-    shallowequal "^1.1.0"
-    tiny-invariant "^1.0.6"
-
 "@cspotcode/source-map-consumer@0.8.0":
   version "0.8.0"
   resolved "https://registry.npmjs.org/@cspotcode/source-map-consumer/-/source-map-consumer-0.8.0.tgz#33bf4b7b39c178821606f669bbc447a6a629786b"
@@ -112,10 +76,10 @@
   resolved "https://registry.npmjs.org/@tsconfig/node16/-/node16-1.0.2.tgz#423c77877d0569db20e1fc80885ac4118314010e"
   integrity sha512-eZxlbI8GZscaGS7kkc/trHTT5xgrjH3/1n2JDwusC9iahPKWMRvRjJSAN5mCXviuTGQ/lHnhvv8Q1YTpnfz9gA==
 
-"@types/lodash@^4.14.176":
-  version "4.14.176"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.176.tgz#641150fc1cda36fbfa329de603bbb175d7ee20c0"
-  integrity sha512-xZmuPTa3rlZoIbtDUyJKZQimJV3bxCmzMIO2c9Pz9afyDro6kr7R79GwcB6mRhuoPmV2p1Vb66WOJH7F886WKQ==
+"@types/lodash@^4.14.177":
+  version "4.14.178"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.178.tgz#341f6d2247db528d4a13ddbb374bcdc80406f4f8"
+  integrity sha512-0d5Wd09ItQWH1qFbEyQ7oTQ3GZrMfth5JkbN3EvTKLXcHLRDSXeLnlvlOn0wvxVIwK5o2M8JzP/OWz7T3NRsbw==
 
 "@types/mongodb@^4.0.7":
   version "4.0.7"

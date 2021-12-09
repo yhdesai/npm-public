@@ -3,7 +3,7 @@
     "@craftjs/core": "^0.1.0",
     "@craftjs/layers": "^0.1.0",
     "@craftjs/utils": "^0.1.0",
-     "@types/lodash": "^4.14.176",
+     "@types/lodash": "^4.14.177",
     "dotenv": "^10.0.0",
     "mongodb": "^4.1.4",
     "react": "^17.0.2"
